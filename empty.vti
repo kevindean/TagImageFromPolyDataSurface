@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VTKFile type="ImageData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <ImageData WholeExtent="0 39 0 39 0 39" Origin="0 0 0" Spacing="2 2 2">
+    <Piece Extent="0 39 0 39 0 39"                                                    >
+      <PointData>
+      </PointData>
+      <CellData>
+      </CellData>
+    </Piece>
+  </ImageData>
+  <AppendedData encoding="base64">
+   _
+  </AppendedData>
+</VTKFile>
